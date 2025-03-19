@@ -1,0 +1,40 @@
+body {
+  /* color de fondo */
+
+ background-color: rgb(70, 138, 226);
+}
+
+header {
+  /* SELECTOR DE ETIQUETA */
+
+    background-color: rgb(31, 28, 28);
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    padding: 10px;
+    color: rgba(245, 243, 243, 0.068);
+    font-size: 50px;
+    font-family: Arial, sans-serif;
+}
+
+/* SELECTOR DE CLASE */
+
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(51, 108, 184);
+
+}
+
+/* SELECTOR DE ID */
+
+#list-unic{
+
+background-color: rgb(212, 212, 190);
+margin-top: auto;
+font-size: 50px;
+
+}
